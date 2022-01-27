@@ -1,0 +1,38 @@
+<style>
+body{background: red}
+body{border: 1px solid blue;
+     border-top: 10px solid purple;
+     border-bottom: 10px solid purple;
+     border-right: 10px solid purple;
+     border-left: 10px solid purple;}
+.turistic-spots{color:maroon;}
+#famous-places{color:maroon;}
+strong{font-weight: bold;}
+strong{color:red}
+.places{color:red}
+.headings{background: olive}
+.table{background:lightgray}
+#famous-places{font-family: sans serif;}
+.turistic-spots{ font-style: italic;}
+#famous-places{overflow: visible;}
+.turistic-spots{ overflow: auto ;
+                 margin-right: 10px ;
+                 margin-bottom: 10px ;}
+.beautifulplace{color: purple}
+.Famous{background: yellow;}
+#history{background: lightgray}
+
+img {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+
+                 
+</style>
